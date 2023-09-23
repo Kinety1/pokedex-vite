@@ -13,8 +13,8 @@
   },
   "main": "api/index.ts",
   "ampt": {
-    "org": "",
-    "app": "react-vite"
+    "app": "pokedex-vite",
+    "org": "kinety1707720"
   },
   "files": [
     "!src/**/*"
