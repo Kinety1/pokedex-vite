@@ -25,7 +25,7 @@ function App() {
           height="20%"
           src="ampt.svg"
         />
-        <h1>Cambio en la pantalla</h1>
+        <h1>Dev</h1>
       </div>
       <h3>API Status: {status}</h3>
     </div>
